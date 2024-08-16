@@ -13,6 +13,17 @@
 .font-color{
      color: #FFFFFF;
 }
+/*shared style*/
+.btn-primary{
+    background-color: #E6533C;
+    color: #FFFFFF;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 46px;
+    font-size: 18px;
+
+
+}
 
 /* nav styles */
 nav{
@@ -22,7 +33,7 @@ nav{
     margin: 0 190px;
 }
 .nav-title{
-    font-weight: 800;
+   font-weight: 800;
     color:#E6533C;
     font-size: 36px;
 }
@@ -37,4 +48,6 @@ nav ul li{
 nav li a{
     text-decoration: none;
     font-size: 18px;
+    font-weight: 400;
+    
 }
